@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kilcote1
+- 👋 Hi, I’m Charis Philips
 - 👀 I’m interested in attractive job
 - 🌱 I’m currently learning web technologies like as java, django, react, vue, android
 
